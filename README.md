@@ -1,5 +1,5 @@
-# basic-larav-starter
-My Starter Template Laravel
+# Basic Laravel Starter
+Project template laravel dengan fungsi-fungsi dasar
 
 ### Penggunaan
 ``` bash
@@ -8,6 +8,10 @@ $ git clone git@github.com:aseftian/basic-larav-starter.git
 
 # masuk ke dalam direktori aplikasi
 $ cd basic-larav-starter
+
+# copy file .env-example ke .env
+$ cp .env-example .env
+# edit file .env sesuai kebutuhan sistem
 
 # install composer dependencies
 $ composer install
